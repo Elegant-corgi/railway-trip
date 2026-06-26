@@ -1,0 +1,485 @@
+[
+  {
+    "name": "北京南",
+    "city": "北京",
+    "code": "VNP",
+    "lat": 39.87,
+    "lng": 116.38
+  },
+  {
+    "name": "北京西",
+    "city": "北京",
+    "code": "BXP",
+    "lat": 39.9,
+    "lng": 116.32
+  },
+  {
+    "name": "北京",
+    "city": "北京",
+    "code": "VNP",
+    "lat": 39.87,
+    "lng": 116.38,
+    "preferredStationName": "北京南"
+  },
+  {
+    "name": "北京朝阳",
+    "city": "北京",
+    "code": "IFP",
+    "lat": 39.94,
+    "lng": 116.49
+  },
+  {
+    "name": "上海虹桥",
+    "city": "上海",
+    "code": "AOH",
+    "lat": 31.19,
+    "lng": 121.33
+  },
+  {
+    "name": "上海",
+    "city": "上海",
+    "code": "AOH",
+    "lat": 31.19,
+    "lng": 121.33,
+    "preferredStationName": "上海虹桥"
+  },
+  {
+    "name": "天津",
+    "city": "天津",
+    "code": "TJP",
+    "lat": 39.13,
+    "lng": 117.21
+  },
+  {
+    "name": "天津西",
+    "city": "天津",
+    "code": "TXP",
+    "lat": 39.16,
+    "lng": 117.15
+  },
+  {
+    "name": "广州南",
+    "city": "广州",
+    "code": "IZQ",
+    "lat": 22.99,
+    "lng": 113.27
+  },
+  {
+    "name": "广州",
+    "city": "广州",
+    "code": "IZQ",
+    "lat": 22.99,
+    "lng": 113.27,
+    "preferredStationName": "广州南"
+  },
+  {
+    "name": "深圳北",
+    "city": "深圳",
+    "code": "IOQ",
+    "lat": 22.61,
+    "lng": 114.03
+  },
+  {
+    "name": "深圳",
+    "city": "深圳",
+    "code": "IOQ",
+    "lat": 22.61,
+    "lng": 114.03,
+    "preferredStationName": "深圳北"
+  },
+  {
+    "name": "南京南",
+    "city": "南京",
+    "code": "NKH",
+    "lat": 31.97,
+    "lng": 118.8
+  },
+  {
+    "name": "南京",
+    "city": "南京",
+    "code": "NKH",
+    "lat": 31.97,
+    "lng": 118.8,
+    "preferredStationName": "南京南"
+  },
+  {
+    "name": "杭州东",
+    "city": "杭州",
+    "code": "HGH",
+    "lat": 30.29,
+    "lng": 120.22
+  },
+  {
+    "name": "杭州",
+    "city": "杭州",
+    "code": "HGH",
+    "lat": 30.29,
+    "lng": 120.22,
+    "preferredStationName": "杭州东"
+  },
+  {
+    "name": "武汉",
+    "city": "武汉",
+    "code": "WHN",
+    "lat": 30.57,
+    "lng": 114.28
+  },
+  {
+    "name": "成都东",
+    "city": "成都",
+    "code": "ICW",
+    "lat": 30.63,
+    "lng": 104.15
+  },
+  {
+    "name": "成都",
+    "city": "成都",
+    "code": "ICW",
+    "lat": 30.63,
+    "lng": 104.14,
+    "preferredStationName": "成都东"
+  },
+  {
+    "name": "重庆北",
+    "city": "重庆",
+    "code": "CUW",
+    "lat": 29.61,
+    "lng": 106.55
+  },
+  {
+    "name": "重庆西",
+    "city": "重庆",
+    "code": "CXW",
+    "lat": 29.52,
+    "lng": 106.42
+  },
+  {
+    "name": "重庆",
+    "city": "重庆",
+    "code": "CUW",
+    "lat": 29.61,
+    "lng": 106.55,
+    "preferredStationName": "重庆北"
+  },
+  {
+    "name": "西安北",
+    "city": "西安",
+    "code": "EAY",
+    "lat": 34.38,
+    "lng": 108.94
+  },
+  {
+    "name": "西安",
+    "city": "西安",
+    "code": "EAY",
+    "lat": 34.38,
+    "lng": 108.94,
+    "preferredStationName": "西安北"
+  },
+  {
+    "name": "郑州东",
+    "city": "郑州",
+    "code": "MEF",
+    "lat": 34.75,
+    "lng": 113.79
+  },
+  {
+    "name": "郑州",
+    "city": "郑州",
+    "code": "ZAF",
+    "lat": 34.76,
+    "lng": 113.77,
+    "preferredStationName": "郑州东"
+  },
+  {
+    "name": "长沙南",
+    "city": "长沙",
+    "code": "CWQ",
+    "lat": 28.15,
+    "lng": 113.07
+  },
+  {
+    "name": "长沙",
+    "city": "长沙",
+    "code": "CWQ",
+    "lat": 28.15,
+    "lng": 113.06,
+    "preferredStationName": "长沙南"
+  },
+  {
+    "name": "济南西",
+    "city": "济南",
+    "code": "JGK",
+    "lat": 36.66,
+    "lng": 116.9
+  },
+  {
+    "name": "济南",
+    "city": "济南",
+    "code": "JGK",
+    "lat": 36.67,
+    "lng": 116.89,
+    "preferredStationName": "济南西"
+  },
+  {
+    "name": "青岛",
+    "city": "青岛",
+    "code": "QDK",
+    "lat": 36.07,
+    "lng": 120.32
+  },
+  {
+    "name": "青岛北",
+    "city": "青岛",
+    "code": "QHK",
+    "lat": 36.18,
+    "lng": 120.37
+  },
+  {
+    "name": "合肥南",
+    "city": "合肥",
+    "code": "ENH",
+    "lat": 31.78,
+    "lng": 117.31
+  },
+  {
+    "name": "合肥",
+    "city": "合肥",
+    "code": "HFH",
+    "lat": 31.88,
+    "lng": 117.31
+  },
+  {
+    "name": "石家庄",
+    "city": "石家庄",
+    "code": "SJP",
+    "lat": 38.05,
+    "lng": 114.49
+  },
+  {
+    "name": "太原南",
+    "city": "太原",
+    "code": "TNV",
+    "lat": 37.81,
+    "lng": 112.55
+  },
+  {
+    "name": "太原",
+    "city": "太原",
+    "code": "TNV",
+    "lat": 37.79,
+    "lng": 112.61,
+    "preferredStationName": "太原南"
+  },
+  {
+    "name": "沈阳北",
+    "city": "沈阳",
+    "code": "SBT",
+    "lat": 41.82,
+    "lng": 123.43
+  },
+  {
+    "name": "沈阳",
+    "city": "沈阳",
+    "code": "SBT",
+    "lat": 41.82,
+    "lng": 123.43,
+    "preferredStationName": "沈阳北"
+  },
+  {
+    "name": "大连北",
+    "city": "大连",
+    "code": "DFT",
+    "lat": 39.02,
+    "lng": 121.63
+  },
+  {
+    "name": "大连",
+    "city": "大连",
+    "code": "DLT",
+    "lat": 38.9,
+    "lng": 121.65
+  },
+  {
+    "name": "哈尔滨西",
+    "city": "哈尔滨",
+    "code": "VAB",
+    "lat": 45.73,
+    "lng": 126.58
+  },
+  {
+    "name": "哈尔滨",
+    "city": "哈尔滨",
+    "code": "VAB",
+    "lat": 45.71,
+    "lng": 126.58,
+    "preferredStationName": "哈尔滨西"
+  },
+  {
+    "name": "长春",
+    "city": "长春",
+    "code": "CRT",
+    "lat": 43.88,
+    "lng": 125.21,
+    "preferredStationName": "长春西"
+  },
+  {
+    "name": "长春西",
+    "city": "长春",
+    "code": "CRT",
+    "lat": 43.88,
+    "lng": 125.27
+  },
+  {
+    "name": "苏州",
+    "city": "苏州",
+    "code": "SZH",
+    "lat": 31.3,
+    "lng": 120.62
+  },
+  {
+    "name": "苏州北",
+    "city": "苏州",
+    "code": "OHH",
+    "lat": 31.38,
+    "lng": 120.63
+  },
+  {
+    "name": "无锡",
+    "city": "无锡",
+    "code": "WXH",
+    "lat": 31.58,
+    "lng": 120.3
+  },
+  {
+    "name": "常州",
+    "city": "常州",
+    "code": "CZH",
+    "lat": 31.78,
+    "lng": 119.97
+  },
+  {
+    "name": "南昌西",
+    "city": "南昌",
+    "code": "NXG",
+    "lat": 28.65,
+    "lng": 115.85
+  },
+  {
+    "name": "南昌",
+    "city": "南昌",
+    "code": "NCG",
+    "lat": 28.69,
+    "lng": 115.91
+  },
+  {
+    "name": "福州南",
+    "city": "福州",
+    "code": "FYS",
+    "lat": 25.99,
+    "lng": 119.28
+  },
+  {
+    "name": "福州",
+    "city": "福州",
+    "code": "FYS",
+    "lat": 25.99,
+    "lng": 119.39,
+    "preferredStationName": "福州南"
+  },
+  {
+    "name": "厦门北",
+    "city": "厦门",
+    "code": "XKS",
+    "lat": 24.63,
+    "lng": 118.05
+  },
+  {
+    "name": "厦门",
+    "city": "厦门",
+    "code": "XMS",
+    "lat": 24.48,
+    "lng": 118.09
+  },
+  {
+    "name": "昆明南",
+    "city": "昆明",
+    "code": "KOM",
+    "lat": 24.91,
+    "lng": 102.76
+  },
+  {
+    "name": "昆明",
+    "city": "昆明",
+    "code": "KOM",
+    "lat": 24.88,
+    "lng": 102.86,
+    "preferredStationName": "昆明南"
+  },
+  {
+    "name": "贵阳北",
+    "city": "贵阳",
+    "code": "KQW",
+    "lat": 26.65,
+    "lng": 106.68
+  },
+  {
+    "name": "贵阳",
+    "city": "贵阳",
+    "code": "KQW",
+    "lat": 26.65,
+    "lng": 106.67,
+    "preferredStationName": "贵阳北"
+  },
+  {
+    "name": "南宁东",
+    "city": "南宁",
+    "code": "NFZ",
+    "lat": 22.84,
+    "lng": 108.43
+  },
+  {
+    "name": "南宁",
+    "city": "南宁",
+    "code": "NFZ",
+    "lat": 22.84,
+    "lng": 108.42,
+    "preferredStationName": "南宁东"
+  },
+  {
+    "name": "兰州西",
+    "city": "兰州",
+    "code": "LAJ",
+    "lat": 36.06,
+    "lng": 103.8
+  },
+  {
+    "name": "兰州",
+    "city": "兰州",
+    "code": "LAJ",
+    "lat": 36.07,
+    "lng": 103.75,
+    "preferredStationName": "兰州西"
+  },
+  {
+    "name": "银川",
+    "city": "银川",
+    "code": "YIJ",
+    "lat": 38.49,
+    "lng": 106.23
+  },
+  {
+    "name": "呼和浩特东",
+    "city": "呼和浩特",
+    "code": "NDC",
+    "lat": 40.84,
+    "lng": 111.79
+  },
+  {
+    "name": "呼和浩特",
+    "city": "呼和浩特",
+    "code": "HHC",
+    "lat": 40.82,
+    "lng": 111.74
+  }
+]
